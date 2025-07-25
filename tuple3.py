@@ -6,4 +6,4 @@ tup = ('a', 'b', 'a', 'c' )
 
 print(tup.count('a'))
 print(tup.index('a'))
-print(tup.index('a', 0)) #첫번째 인덱스 값부터 
+print(tup.index('a', 1)) #첫번째 인덱스 값부터 찾기 
