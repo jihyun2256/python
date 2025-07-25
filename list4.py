@@ -10,8 +10,8 @@ print(lst[0:2])  #list형태 반환
 
 print(lst[:2])
 
-#print(lst[-3:-1])
-print(lst[-1:-3])
+print(lst[-3:-1])
+#print(lst[-1:-3]) 얘는 []로 출력 
 
 
 
