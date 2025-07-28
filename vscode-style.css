@@ -1,0 +1,4 @@
+/* 상태바 색상 커스터마이징 */
+.monaco-workbench .part.statusbar {
+  background: #ebb2d2 !important;  /* 원하는 색상 */
+}
